@@ -1,0 +1,1 @@
+Run	bases	avgLength	InsertSize	LibraryStrategy	LibrarySelection	LibrarySource	LibraryLayout	Platform	BioProject	BioSample	ScientificName	CenterName	Consent

@@ -1,0 +1,178 @@
+SAMEA7015108 Original Braunvieh/Brown Swiss - male
+SAMEA6528895 Original Braunvieh - male
+SAMEA6528894 Original Braunvieh - female
+SAMEA6528893 Original Braunvieh - male
+SAMEA6528892 Original Braunvieh - female
+SAMEA6528891 Original Braunvieh - female
+SAMEA6528890 Original Braunvieh - female
+SAMEA6528889 Original Braunvieh - female
+SAMEA6528888 Original Braunvieh - female
+SAMEA6528887 Original Braunvieh - male
+SAMEA6528886 Original Braunvieh - female
+SAMEA6272127 173: Original Braunvieh
+SAMEA6272126 174: Original Braunvieh
+SAMEA6272125 175: Original Braunvieh
+SAMEA6272124 176: Original Braunvieh
+SAMEA6272123 177: Original Braunvieh
+SAMEA6272122 178: Original Braunvieh
+SAMEA6272121 179: Original Braunvieh
+SAMEA6272120 180: Original Braunvieh
+SAMEA6272119 181: Original Braunvieh
+SAMEA6272118 182: Original Braunvieh
+SAMEA6272117 183: Original Braunvieh
+SAMEA6272115 185: Original Braunvieh
+SAMEA6272114 186: Original Braunvieh
+SAMEA6272113 187: Original Braunvieh
+SAMEA6272112 188: Original Braunvieh
+SAMEA6272110 190: Original Braunvieh
+SAMEA6272109 191: Original Braunvieh
+SAMEA6272107 193: Original Braunvieh
+SAMEA6272103 197: Original Braunvieh
+SAMEA6272102 198: Original Braunvieh
+SAMEA6272100 200: Original Braunvieh
+SAMEA6272094 206: Original Braunvieh
+SAMEA6272093 207: Original Braunvieh
+SAMEA6272092 208: Original Braunvieh
+SAMEA6272091 209: Original Braunvieh
+SAMEA6272090 210: Original Braunvieh
+SAMEA6272089 211: Original Braunvieh
+SAMEA6272088 212: Original Braunvieh
+SAMEA6272087 213: Original Braunvieh
+SAMEA6272086 214: Original Braunvieh
+SAMEA6272085 215: Original Braunvieh
+SAMEA6272084 216: Original Braunvieh
+SAMEA6272083 217: Original Braunvieh
+SAMEA6272082 218: Original Braunvieh
+SAMEA5714975 Original Braunvieh - male
+SAMEA5714974 Original Braunvieh - female
+SAMEA5714972 Original Braunvieh - male
+SAMEA5564728 Original Braunvieh - female
+SAMEA5564727 Original Braunvieh - female
+SAMEA5564726 Original Braunvieh - female
+SAMEA5159886 Original Braunvieh - female
+SAMEA5159850 Original Braunvieh - male
+SAMEA5159849 Original Braunvieh - male
+SAMEA5159848 Original Braunvieh - male
+SAMEA5159843 Original Braunvieh - male
+SAMEA5159837 Original Braunvieh - male
+SAMEA5159796 Original Braunvieh - male
+SAMEA5159795 Original Braunvieh - male
+SAMEA5159794 Original Braunvieh - male
+SAMEA5159790 Original Braunvieh - male
+SAMEA5159789 Original Braunvieh - male
+SAMEA5159776 Original Braunvieh - male
+SAMEA5159768 Original Braunvieh - male
+SAMEA5159767 Original Braunvieh - male
+SAMEA5059759 Sequencing of Original Braunvieh animals
+SAMEA5059758 Sequencing of Original Braunvieh animals
+SAMEA5059757 Sequencing of Original Braunvieh animals
+SAMEA5059756 Sequencing of Original Braunvieh animals
+SAMEA5059755 Sequencing of Original Braunvieh animals
+SAMEA5059754 Sequencing of Original Braunvieh animals
+SAMEA5059753 Sequencing of Original Braunvieh animals
+SAMEA5059752 Sequencing of Original Braunvieh animals
+SAMEA5059751 Sequencing of Original Braunvieh animals
+SAMEA5059750 Sequencing of Original Braunvieh animals
+SAMEA5059749 Sequencing of Original Braunvieh animals
+SAMEA5059748 Sequencing of Original Braunvieh animals
+SAMEA5059747 Sequencing of Original Braunvieh animals
+SAMEA5059746 Sequencing of Original Braunvieh animals
+SAMEA5059745 Sequencing of Original Braunvieh animals
+SAMEA5059744 Sequencing of Original Braunvieh animals
+SAMEA5059743 Sequencing of Original Braunvieh animals
+SAMEA5059742 Sequencing of Original Braunvieh animals
+SAMEA5059741 Sequencing of Original Braunvieh animals
+SAMEA4827674 key animals from the Original Braunvieh cattle breed
+SAMEA4827673 key animals from the Original Braunvieh cattle breed
+SAMEA4827672 key animals from the Original Braunvieh cattle breed
+SAMEA4827671 key animals from the Original Braunvieh cattle breed
+SAMEA4827670 key animals from the Original Braunvieh cattle breed
+SAMEA4827669 key animals from the Original Braunvieh cattle breed
+SAMEA4827668 key animals from the Original Braunvieh cattle breed
+SAMEA4827667 key animals from the Original Braunvieh cattle breed
+SAMEA4827666 key animals from the Original Braunvieh cattle breed
+SAMEA4827665 key animals from the Original Braunvieh cattle breed
+SAMEA4827664 key animals from the Original Braunvieh cattle breed
+SAMEA4827663 key animals from the Original Braunvieh cattle breed
+SAMEA4827662 key animals from the Original Braunvieh cattle breed
+SAMEA4827661 key animals from the Original Braunvieh cattle breed
+SAMEA4827660 key animals from the Original Braunvieh cattle breed
+SAMEA4827659 key animals from the Original Braunvieh cattle breed
+SAMEA4827658 key animals from the Original Braunvieh cattle breed
+SAMEA4827657 key animals from the Original Braunvieh cattle breed
+SAMEA4827656 key animals from the Original Braunvieh cattle breed
+SAMEA4827655 key animals from the Original Braunvieh cattle breed
+SAMEA4827654 key animals from the Original Braunvieh cattle breed
+SAMEA4827653 key animals from the Original Braunvieh cattle breed
+SAMEA4827652 key animals from the Original Braunvieh cattle breed
+SAMEA4827651 key animals from the Original Braunvieh cattle breed
+SAMEA4827650 key animals from the Original Braunvieh cattle breed
+SAMEA4827649 key animals from the Original Braunvieh cattle breed
+SAMEA4827648 key animals from the Original Braunvieh cattle breed
+SAMEA4827647 key animals from the Original Braunvieh cattle breed
+SAMEA4827646 key animals from the Original Braunvieh cattle breed
+SAMEA4827645 key animals from the Original Braunvieh cattle breed
+SAMEA4644768 Original Braunvieh - female
+SAMEA4644764 Original Braunvieh - female
+SAMEA4644750 Original Braunvieh - female
+SAMEA4644749 Original Braunvieh - female
+SAMEA4644741 Original Braunvieh - male
+SAMEA4644740 Original Braunvieh - male
+SAMEA4644734 Original Braunvieh - female
+SAMEA4644730 Original Braunvieh - male
+SAMEA115160494 641: Original Braunvieh
+SAMEA115129362 376: Original Braunvieh
+SAMEA111341792 325: Original Braunvieh
+SAMEA111341791 326: Original Braunvieh
+SAMEA12596601 Original Braunvieh
+SAMEA12596600 Original Braunvieh
+SAMEA12596599 Original Braunvieh
+SAMEA10833860 Original Braunvieh-female
+SAMEA10833834 Original Braunvieh-male
+SAMEA10833833 Original Braunvieh-male
+SAMEA9614337 755: Original Braunvieh animal
+SAMEA9614338 757: Original Braunvieh animal
+SAMEA9614339 759: Original Braunvieh animal
+SAMEA9614333 762: Original Braunvieh animal
+SAMEA9614334 764: Original Braunvieh animal
+SAMEA9614335 766: Original Braunvieh animal
+SAMEA9614336 768: Original Braunvieh animal
+SAMEA9614330 770: Original Braunvieh animal
+SAMEA9614331 771: Original Braunvieh animal
+SAMEA9614332 773: Original Braunvieh animal
+SAMEA9614328 780: Original Braunvieh animal
+SAMEA9614329 782: Original Braunvieh animal
+SAMEA9986201 357: Original Braunvieh
+SAMEA9986200 358: Original Braunvieh
+SAMEA9986199 843: Original Braunvieh
+SAMEA8565035 Original Braunvieh - f������������
+SAMEA8565034 Original Braunvieh - f������������
+SAMEA8565096 Original Braunvieh - f������������
+SAMEA8565029 Original Braunvieh - m���������
+SAMEA7759028 788: Original Braunvieh
+SAMEA7589750 875: Original Braunvieh
+SAMEA7589749 876: Original Braunvieh
+SAMEA7589748 877: Original Braunvieh
+SAMEA7589747 878: Original Braunvieh
+SAMEA9533802 724: Original Braunvieh
+SAMEA9533801 725: Original Braunvieh
+SAMEA9533800 726: Original Braunvieh
+SAMEA9533799 727: Original Braunvieh
+SAMEA9533795 731: Original Braunvieh
+SAMEA9533793 733: Original Braunvieh
+SAMEA9533791 735: Original Braunvieh
+SAMEA9533789 737: Original Braunvieh
+SAMEA9533788 738: Original Braunvieh
+SAMEA9533787 739: Original Braunvieh
+SAMEA9533786 740: Original Braunvieh
+SAMEA9533785 741: Original Braunvieh
+SAMEA1080739 Braunvieh
+SAMEA1080736 Braunvieh
+SAMEA1080752 Braunvieh
+SAMEA1080742 Braunvieh
+SAMEA1080755 Braunvieh
+SAMEA1080744 Braunvieh
+SAMN05216096 /breed="Braunvieh"
+SAMN05216095 /breed="Braunvieh"
+SAMN05216094 /breed="Braunvieh"
+SAMN05216093 /breed="Braunvieh"

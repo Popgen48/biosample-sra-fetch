@@ -1,0 +1,11 @@
+min_insert_size: 300
+avgLength: 200
+reference_size: "3 gbp"
+min_cov: "7x"
+LibraryStrategy: WGS
+LibrarySelection: "RANDOM,size fractionation,unspecified"
+LibrarySource: GENOMIC
+LibraryLayout: PAIRED
+Platform: ILLUMINA
+ScientificName: "Bos taurus"
+Consent: public
